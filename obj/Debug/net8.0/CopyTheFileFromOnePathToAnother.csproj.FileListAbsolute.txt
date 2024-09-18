@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\CopyTheFileFromOnePathToAnother\bin\Debug\net8.0\CopyTheFileFromOnePathToAnother.exe
+C:\Users\DELL\source\repos\CopyTheFileFromOnePathToAnother\bin\Debug\net8.0\CopyTheFileFromOnePathToAnother.deps.json
+C:\Users\DELL\source\repos\CopyTheFileFromOnePathToAnother\bin\Debug\net8.0\CopyTheFileFromOnePathToAnother.runtimeconfig.json
+C:\Users\DELL\source\repos\CopyTheFileFromOnePathToAnother\bin\Debug\net8.0\CopyTheFileFromOnePathToAnother.dll
+C:\Users\DELL\source\repos\CopyTheFileFromOnePathToAnother\bin\Debug\net8.0\CopyTheFileFromOnePathToAnother.pdb
+C:\Users\DELL\source\repos\CopyTheFileFromOnePathToAnother\obj\Debug\net8.0\CopyTheFileFromOnePathToAnother.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CopyTheFileFromOnePathToAnother\obj\Debug\net8.0\CopyTheFileFromOnePathToAnother.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CopyTheFileFromOnePathToAnother\obj\Debug\net8.0\CopyTheFileFromOnePathToAnother.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CopyTheFileFromOnePathToAnother\obj\Debug\net8.0\CopyTheFileFromOnePathToAnother.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CopyTheFileFromOnePathToAnother\obj\Debug\net8.0\CopyTheFileFromOnePathToAnother.dll
+C:\Users\DELL\source\repos\CopyTheFileFromOnePathToAnother\obj\Debug\net8.0\refint\CopyTheFileFromOnePathToAnother.dll
+C:\Users\DELL\source\repos\CopyTheFileFromOnePathToAnother\obj\Debug\net8.0\CopyTheFileFromOnePathToAnother.pdb
+C:\Users\DELL\source\repos\CopyTheFileFromOnePathToAnother\obj\Debug\net8.0\CopyTheFileFromOnePathToAnother.genruntimeconfig.cache
+C:\Users\DELL\source\repos\CopyTheFileFromOnePathToAnother\obj\Debug\net8.0\ref\CopyTheFileFromOnePathToAnother.dll
